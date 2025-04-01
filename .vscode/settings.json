@@ -9,5 +9,56 @@
 		"javascript": "javascript",
 		"html": "HTML"
 	},
-	"tailwindCSS.classFunctions": ["tw", "clsx"]
+	"tailwindCSS.classFunctions": ["tw", "clsx"],
+
+	"tailwind-breakpoint.breakpoints": [
+		{
+			"breakpoint": "xs",
+			"decoration": {
+				"color": "#8de188",
+				"fontStyle": "italic",
+				"fontWeight": "normal"
+			}
+		},
+		{
+			"breakpoint": "sm",
+			"decoration": {
+				"color": "#e18988",
+				"fontStyle": "italic",
+				"fontWeight": "normal"
+			}
+		},
+		{
+			"breakpoint": "md",
+			"decoration": {
+				"color": "#ba96e3",
+				"fontStyle": "italic",
+				"fontWeight": "normal"
+			}
+		},
+		{
+			"breakpoint": "lg",
+			"decoration": {
+				"color": "#dbe3b6",
+				"fontStyle": "italic",
+				"fontWeight": "normal"
+			}
+		},
+		{
+			"breakpoint": "xl",
+			"decoration": {
+				"color": "#9ddee3",
+				"fontStyle": "italic",
+				"fontWeight": "normal"
+			}
+		},
+		{
+			"breakpoint": "2xl",
+			"decoration": {
+				"color": "#e39cd2",
+				"fontStyle": "italic",
+				"fontWeight": "normal"
+			}
+		}
+	]
 }
