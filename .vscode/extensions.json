@@ -1,6 +1,7 @@
 {
 	"recommendations": [
 		"bradlc.vscode-tailwindcss",
-		"jonnythemonke.tw-breakpoint"
+		"jonnythemonke.tw-breakpoint",
+		"stivo.tailwind-fold"
 	]
 }

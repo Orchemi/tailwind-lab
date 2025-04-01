@@ -60,5 +60,11 @@
 				"fontWeight": "normal"
 			}
 		}
-	]
+	],
+
+	"tailwind-fold.autoFold": true,
+	"tailwind-fold.foldStyle": "ALL",
+	"tailwind-fold.foldedText": "...",
+	"tailwind-fold.showTailwindImage": false,
+	"tailwind-fold.unfoldedTextOpacity": 0.7
 }
